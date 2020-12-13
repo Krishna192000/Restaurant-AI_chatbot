@@ -10,4 +10,5 @@ Chatbot for restaurant which helps taking order for restaurant, prints the bill,
 ## Usage
     $ swipl -s chatbot.pl
 
-## To check how this application works, there are two sample examples in screenshots folder.
+## Sample examples
+    Check screenshots folder
